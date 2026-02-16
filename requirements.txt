@@ -1,0 +1,6 @@
+torch
+torchvision
+opencv-contrib-python
+numpy
+streamlit
+Pillow
