@@ -1,0 +1,25 @@
+[
+    {
+        "image_name": "Picture4.jpg",
+        "detected_text": [
+            "\\ \u2014 = :",
+            "GAL OO? CEN NN",
+            "BT PT TA\""
+        ],
+        "latency_ms": 449.86,
+        "extraction_accuracy": 46.0
+    },
+    {
+        "image_name": "Picture3.jpg",
+        "detected_text": [
+            "2 =  \u2014\u2014 =",
+            "= 720 ROS = OE IZ",
+            "= 762M BALL IE BE",
+            "A RE R19 = WWEETNS 2 SE WT 6KG AS",
+            "SES: ES BI SOE SEOW IS SO EAE",
+            "5S AE = 77 PADS TE"
+        ],
+        "latency_ms": 476.73,
+        "extraction_accuracy": 58.75
+    }
+]
