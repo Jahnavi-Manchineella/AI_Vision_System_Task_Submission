@@ -52,6 +52,8 @@ AI_VISION_SYSTEM_TASK_SUBMISSION/
 ### Output
 - Annotated videos/images
 - Bounding boxes with class labels
+<img width="995" height="828" alt="image" src="https://github.com/user-attachments/assets/82b283a3-e071-4743-8b06-4631924328a7" />
+
 
 ---
 
@@ -74,7 +76,11 @@ AI_VISION_SYSTEM_TASK_SUBMISSION/
 
 ### Output
 - Structured JSON
+<img width="554" height="409" alt="image" src="https://github.com/user-attachments/assets/7367237f-266e-42ca-b850-964c5a4f6b50" />
+
 - Plain text file per image
+<img width="1256" height="617" alt="image" src="https://github.com/user-attachments/assets/86a015c5-52a0-459d-8601-3c032419ad04" />
+
 
 ---
 
